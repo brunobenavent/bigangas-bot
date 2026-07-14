@@ -132,9 +132,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B08D36F27C?tag=bigangas-21",
     "category": "bebé",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/816FscRywnL._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-14T15:14:13.634Z"
   },
   {
     "id": "11",
