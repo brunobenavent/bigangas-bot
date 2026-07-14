@@ -10,7 +10,7 @@
     "category": "bebé",
     "published": true,
     "publishedAt": "2026-07-14T08:12:07.145Z",
-    "imageUrl": "https://m.media-amazon.com/images/G/30/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg"
   },
   {
     "id": "2",
@@ -35,7 +35,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0CW2S747Z?tag=bigangas-21",
     "category": "deporte",
     "published": true,
-    "publishedAt": "2026-07-14T08:26:07.044Z"
+    "publishedAt": "2026-07-14T08:26:07.044Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/812gadik4ZL._AC_SL400_.jpg"
   },
   {
     "id": "4",
@@ -60,7 +61,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0GL1FMB43?tag=bigangas-21",
     "category": "cocina",
     "published": true,
-    "publishedAt": "2026-07-14T08:39:26.013Z"
+    "publishedAt": "2026-07-14T08:39:26.013Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/71O0kEj-DFL._AC_SL400_.jpg"
   },
   {
     "id": "6",
@@ -151,7 +153,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0DJKV88PY?tag=bigangas-21",
     "category": "mascotas",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/7158MW8iK1L._AC_SL400_.jpg"
   },
   {
     "id": "14",
