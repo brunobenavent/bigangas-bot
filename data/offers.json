@@ -91,9 +91,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0CJJH9K25?tag=bigangas-21",
     "category": "hogar",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/71q2LSU+8jL._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-14T11:56:20.775Z"
   },
   {
     "id": "8",
