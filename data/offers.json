@@ -39,7 +39,8 @@
     "published": true,
     "publishedAt": "2026-07-14T08:26:07.044Z",
     "imageUrl": "https://m.media-amazon.com/images/I/812gadik4ZL._AC_SL400_.jpg",
-    "expired": false
+    "expired": true,
+    "expiredAt": "2026-07-14T11:23:18.726Z"
   },
   {
     "id": "4",
@@ -78,8 +79,7 @@
     "category": "salud",
     "published": false,
     "imageUrl": "https://m.media-amazon.com/images/I/51WElzPtLhL._AC_SL400_.jpg",
-    "expired": true,
-    "expiredAt": "2026-07-14T11:21:27.695Z"
+    "expired": false
   },
   {
     "id": "7",
