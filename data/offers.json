@@ -10,9 +10,7 @@
     "category": "bebé",
     "published": true,
     "publishedAt": "2026-07-14T08:12:07.145Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg",
-    "expired": true,
-    "expiredAt": "2026-07-14T11:43:23.308Z"
+    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg"
   },
   {
     "id": "2",
@@ -25,7 +23,9 @@
     "category": "electrónica",
     "published": true,
     "publishedAt": "2026-07-14T08:18:25.845Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/710Lppy-fzL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/710Lppy-fzL._AC_SL400_.jpg",
+    "expired": true,
+    "expiredAt": "2026-07-14T11:43:31.099Z"
   },
   {
     "id": "3",
