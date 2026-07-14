@@ -9,7 +9,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0GCMVN3ZN?tag=bigangas-21",
     "category": "bebé",
     "published": true,
-    "publishedAt": "2026-07-14T08:12:07.145Z"
+    "publishedAt": "2026-07-14T08:12:07.145Z",
+    "imageUrl": "https://m.media-amazon.com/images/G/30/marketing/prime/2022PrimeBrand/Logos/Prime_Logo_RGB_Prime_Blue_MASTER._AC_SL400_.jpg"
   },
   {
     "id": "2",
@@ -21,7 +22,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0CCDNJS75?tag=bigangas-21",
     "category": "electrónica",
     "published": true,
-    "publishedAt": "2026-07-14T08:18:25.845Z"
+    "publishedAt": "2026-07-14T08:18:25.845Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/710Lppy-fzL._AC_SL400_.jpg"
   },
   {
     "id": "3",
@@ -45,7 +47,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0H34HCPGJ?tag=bigangas-21",
     "category": "hogar",
     "published": true,
-    "publishedAt": "2026-07-14T08:32:51.556Z"
+    "publishedAt": "2026-07-14T08:32:51.556Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/5126jQDuLyL._AC_SL400_.jpg"
   },
   {
     "id": "5",
@@ -68,7 +71,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0B7JNDLDJ?tag=bigangas-21",
     "category": "salud",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/51WElzPtLhL._AC_SL400_.jpg"
   },
   {
     "id": "7",
@@ -79,7 +83,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0CJJH9K25?tag=bigangas-21",
     "category": "hogar",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71q2LSU+8jL._AC_SL400_.jpg"
   },
   {
     "id": "8",
@@ -90,7 +95,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0DP3FR5R4?tag=bigangas-21",
     "category": "deporte",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71mOiXyOcyL._AC_SL400_.jpg"
   },
   {
     "id": "9",
@@ -100,7 +106,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0F4NVVKHR?tag=bigangas-21",
     "category": "moda",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/716AuEroK-L._AC_SL400_.jpg"
   },
   {
     "id": "10",
@@ -110,7 +117,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B08D36F27C?tag=bigangas-21",
     "category": "bebé",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/816FscRywnL._AC_SL400_.jpg"
   },
   {
     "id": "11",
@@ -121,7 +129,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B082VVLTZV?tag=bigangas-21",
     "category": "alimentación",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71L958wu8nL._AC_SL400_.jpg"
   },
   {
     "id": "12",
@@ -131,7 +140,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0DP1MRNXM?tag=bigangas-21",
     "category": "salud",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/81U956n69nL._AC_SL400_.jpg"
   },
   {
     "id": "13",
@@ -151,7 +161,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0B9S5HZ26?tag=bigangas-21",
     "category": "cocina",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71yocd0SeaL._AC_SL400_.jpg"
   },
   {
     "id": "15",
@@ -161,7 +172,8 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0H1LQ68XG?tag=bigangas-21",
     "category": "electrónica",
-    "published": false
+    "published": false,
+    "imageUrl": "https://m.media-amazon.com/images/I/71lu7A7ScgL._AC_SL400_.jpg"
   },
   {
     "id": "auto-1784020175132-0",
