@@ -10,7 +10,8 @@
     "category": "bebé",
     "published": true,
     "publishedAt": "2026-07-14T08:12:07.145Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "2",
@@ -51,7 +52,8 @@
     "category": "hogar",
     "published": true,
     "publishedAt": "2026-07-14T08:32:51.556Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/5126jQDuLyL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/5126jQDuLyL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "5",
@@ -64,7 +66,8 @@
     "category": "cocina",
     "published": true,
     "publishedAt": "2026-07-14T08:39:26.013Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/71O0kEj-DFL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71O0kEj-DFL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "6",
@@ -77,7 +80,8 @@
     "category": "salud",
     "published": false,
     "imageUrl": "https://m.media-amazon.com/images/I/51WElzPtLhL._AC_SL400_.jpg",
-    "expired": false
+    "expired": true,
+    "expiredAt": "2026-07-14T11:21:27.695Z"
   },
   {
     "id": "7",
@@ -89,7 +93,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0CJJH9K25?tag=bigangas-21",
     "category": "hogar",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/71q2LSU+8jL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71q2LSU+8jL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "8",
@@ -101,7 +106,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0DP3FR5R4?tag=bigangas-21",
     "category": "deporte",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/71mOiXyOcyL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71mOiXyOcyL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "9",
@@ -112,7 +118,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0F4NVVKHR?tag=bigangas-21",
     "category": "moda",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/716AuEroK-L._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/716AuEroK-L._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "10",
@@ -123,7 +130,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B08D36F27C?tag=bigangas-21",
     "category": "bebé",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/816FscRywnL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/816FscRywnL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "11",
@@ -135,7 +143,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B082VVLTZV?tag=bigangas-21",
     "category": "alimentación",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/71L958wu8nL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71L958wu8nL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "12",
@@ -146,7 +155,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0DP1MRNXM?tag=bigangas-21",
     "category": "salud",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/81U956n69nL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/81U956n69nL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "13",
@@ -157,7 +167,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0DJKV88PY?tag=bigangas-21",
     "category": "mascotas",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/7158MW8iK1L._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/7158MW8iK1L._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "14",
@@ -168,7 +179,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0B9S5HZ26?tag=bigangas-21",
     "category": "cocina",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/71yocd0SeaL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71yocd0SeaL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "15",
@@ -179,7 +191,8 @@
     "affiliateUrl": "https://www.amazon.es/dp/B0H1LQ68XG?tag=bigangas-21",
     "category": "electrónica",
     "published": false,
-    "imageUrl": "https://m.media-amazon.com/images/I/71lu7A7ScgL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/71lu7A7ScgL._AC_SL400_.jpg",
+    "expired": false
   },
   {
     "id": "auto-1784020175132-0",
@@ -191,7 +204,8 @@
     "affiliateUrl": "https://www.amazon.es/Huepar-Autonivelante-Verticales-Horizontal-Conmutables/dp/B082DDJ3SJ?ref=dlx_deals_dg_dcl_B082DDJ3SJ_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/71E8cOKuMBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-1",
@@ -203,7 +217,8 @@
     "affiliateUrl": "https://www.amazon.es/Plegable-Inclinaci%C3%B3n-Velocidad-Manillar-Extensible/dp/B0G14B1753?ref=dlx_deals_dg_dcl_B0G14B1753_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/81RxedwLzbL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-2",
@@ -215,7 +230,8 @@
     "affiliateUrl": "https://www.amazon.es/Oral-B-Cepillo-El%C3%A9ctrico-Cabezales-Dise%C3%B1ado/dp/B0D5D6GQLB?ref=dlx_deals_dg_dcl_B0D5D6GQLB_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "salud",
     "imageUrl": "https://m.media-amazon.com/images/I/81Ibg3HG4XL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-3",
@@ -227,7 +243,8 @@
     "affiliateUrl": "https://www.amazon.es/Tapo-C615G-Kit-Seguridad-Almacenamiento/dp/B0FXLYPBSY?ref=dlx_deals_dg_dcl_B0FXLYPBSY_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/81eThjuYgHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-4",
@@ -239,7 +256,8 @@
     "affiliateUrl": "https://www.amazon.es/ghd-Chronos-Edici%C3%B3n-Limitada-Jelly/dp/B0GVF98VPB?ref=dlx_deals_dg_dcl_B0GVF98VPB_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/51QiJ14Pl2L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-5",
@@ -251,7 +269,8 @@
     "affiliateUrl": "https://www.amazon.es/roborock-Q10-S5-Fregasuelos-Antienredos/dp/B0DT12P56W?ref=dlx_deals_dg_dcl_B0DT12P56W_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/51chrbRHhvL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-6",
@@ -263,7 +282,8 @@
     "affiliateUrl": "https://www.amazon.es/L%C3%A1mpara-Secadora-SUNUV-Profesional-Lampara/dp/B08KS4W6L6?ref=dlx_deals_dg_dcl_B08KS4W6L6_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/61nldL19YHL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-7",
@@ -275,7 +295,8 @@
     "affiliateUrl": "https://www.amazon.es/Moulinex-cuchillas-capacidad-refrigeraci%C3%B3n-autom%C3%A1tica/dp/B0BFBHRWQM?ref=dlx_deals_dg_dcl_B0BFBHRWQM_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "cocina",
     "imageUrl": "https://m.media-amazon.com/images/I/61ZJm4EN9IL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   },
   {
     "id": "auto-1784020175132-8",
@@ -287,6 +308,7 @@
     "affiliateUrl": "https://www.amazon.es/Calvin-Klein-Monogram-Lv040Em269-Hombre/dp/B0F4NW8T89?ref=dlx_deals_dg_dcl_B0F4NW8T89_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "moda",
     "imageUrl": "https://m.media-amazon.com/images/I/716AuEroK-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": false,
+    "expired": false
   }
 ]
