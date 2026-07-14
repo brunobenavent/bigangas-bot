@@ -146,9 +146,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B082VVLTZV?tag=bigangas-21",
     "category": "alimentación",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/71L958wu8nL._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-14T20:47:47.732Z"
   },
   {
     "id": "12",
