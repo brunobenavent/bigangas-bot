@@ -11,8 +11,7 @@
     "published": true,
     "publishedAt": "2026-07-14T08:12:07.145Z",
     "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg",
-    "expired": true,
-    "expiredAt": "2026-07-14T11:48:43.507Z"
+    "expired": false
   },
   {
     "id": "2",
@@ -82,7 +81,7 @@
     "published": false,
     "imageUrl": "https://m.media-amazon.com/images/I/51WElzPtLhL._AC_SL400_.jpg",
     "expired": true,
-    "expiredAt": "2026-07-14T11:21:27.695Z"
+    "expiredAt": "2026-07-14T11:50:07.982Z"
   },
   {
     "id": "7",
