@@ -10,4 +10,6 @@ export interface Offer {
   imageUrl?: string;
   published: boolean;
   publishedAt?: string;
+  expired?: boolean;
+  expiredAt?: string;
 }
