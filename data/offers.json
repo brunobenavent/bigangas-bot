@@ -119,9 +119,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0F4NVVKHR?tag=bigangas-21",
     "category": "moda",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/716AuEroK-L._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-14T13:01:11.093Z"
   },
   {
     "id": "10",
