@@ -38,8 +38,7 @@
     "published": true,
     "publishedAt": "2026-07-14T08:26:07.044Z",
     "imageUrl": "https://m.media-amazon.com/images/I/812gadik4ZL._AC_SL400_.jpg",
-    "expired": true,
-    "expiredAt": "2026-07-14T11:23:18.726Z"
+    "expired": false
   },
   {
     "id": "4",
