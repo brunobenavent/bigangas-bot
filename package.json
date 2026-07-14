@@ -1,0 +1,18 @@
+{
+  "name": "bigangas-bot",
+  "version": "1.0.0",
+  "description": "Bot de ofertas para Telegram — @bigangas",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsc && node dist/main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "typescript": "^5.7.3"
+  }
+}

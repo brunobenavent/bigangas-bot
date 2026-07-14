@@ -1,0 +1,39 @@
+name: Publicar oferta
+
+on:
+  schedule:
+    # UTC: 7h = 9h España (CEST), 14h = 16h, 20h = 22h
+    - cron: "0 7,14,20 * * *"
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: npm run build
+
+      - name: Publicar oferta en Telegram
+        run: node dist/main.js
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+
+      - name: Guardar estado (commit + push)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/offers.json
+          git diff --staged --quiet || git commit -m "chore: marca oferta como publicada"
+          git push

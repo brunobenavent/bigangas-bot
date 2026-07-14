@@ -1,0 +1,165 @@
+[
+  {
+    "id": "1",
+    "title": "Toallitas Textura Loción — Pack de unidades",
+    "description": "Suaves, resistentes y con loción hidratante. Ideal para toda la familia.",
+    "originalPrice": 50.99,
+    "discountPrice": 33.09,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0GCMVN3ZN?tag=bigangas-21",
+    "category": "bebé",
+    "published": true,
+    "publishedAt": "2026-07-14T08:12:07.145Z"
+  },
+  {
+    "id": "2",
+    "title": "Auriculares Inalámbricos Bluetooth Impermeables",
+    "description": "Cancelación de ruido, graves potentes, ideales para deporte y día a día.",
+    "originalPrice": 49.99,
+    "discountPrice": 18.99,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0CCDNJS75?tag=bigangas-21",
+    "category": "electrónica",
+    "published": true,
+    "publishedAt": "2026-07-14T08:18:25.845Z"
+  },
+  {
+    "id": "3",
+    "title": "Outsunny Carro Plegable con Ruedas Grandes",
+    "description": "Carro playa y compra, mango ajustable, tela Oxford resistente. 70L de capacidad, 80kg de carga.",
+    "originalPrice": 52.99,
+    "discountPrice": 37.49,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0CW2S747Z?tag=bigangas-21",
+    "category": "deporte",
+    "published": true,
+    "publishedAt": "2026-07-14T08:26:07.044Z"
+  },
+  {
+    "id": "4",
+    "title": "Mellerware Ventilador de Techo LED con Mando Brizy!",
+    "description": "6 velocidades, ultra silencioso, función verano-invierno, temporizador. 132cm, motor DC.",
+    "originalPrice": 149.99,
+    "discountPrice": 99.99,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0H34HCPGJ?tag=bigangas-21",
+    "category": "hogar",
+    "published": true,
+    "publishedAt": "2026-07-14T08:32:51.556Z"
+  },
+  {
+    "id": "5",
+    "title": "Extractor de Zumos por Prensa en Frío",
+    "description": "Licuadora lenta que acepta frutas y verduras enteras. Máxima nutrición.",
+    "originalPrice": 239.99,
+    "discountPrice": 142.49,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0GL1FMB43?tag=bigangas-21",
+    "category": "cocina",
+    "published": false
+  },
+  {
+    "id": "6",
+    "title": "Compeed Apósitos Hidrocoloides Pack Triple",
+    "description": "Protección contra ampollas, surtido de tamaños. Cura y protege al instante.",
+    "originalPrice": null,
+    "discountPrice": 13.51,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0B7JNDLDJ?tag=bigangas-21",
+    "category": "salud",
+    "published": false
+  },
+  {
+    "id": "7",
+    "title": "Subtail Colchoneta Hinchable Piscina",
+    "description": "Flotador grande para piscina y playa. Fácil de inflar, resistente y compacto.",
+    "originalPrice": 27.99,
+    "discountPrice": 18.76,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0CJJH9K25?tag=bigangas-21",
+    "category": "hogar",
+    "published": false
+  },
+  {
+    "id": "8",
+    "title": "Juego de Pesas y Mancuernas de Neopreno JUPPLIES",
+    "description": "Set completo para entrenar en casa, agarre cómodo y antideslizante.",
+    "originalPrice": 23.99,
+    "discountPrice": 18.03,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0DP3FR5R4?tag=bigangas-21",
+    "category": "deporte",
+    "published": false
+  },
+  {
+    "id": "9",
+    "title": "Calvin Klein Polo Manga Corta Hombre Monogram",
+    "originalPrice": 69.9,
+    "discountPrice": 33.55,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0F4NVVKHR?tag=bigangas-21",
+    "category": "moda",
+    "published": false
+  },
+  {
+    "id": "10",
+    "title": "Chicco Zapatillas Niño Guardería y Playa",
+    "originalPrice": 17.84,
+    "discountPrice": 11.84,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B08D36F27C?tag=bigangas-21",
+    "category": "bebé",
+    "published": false
+  },
+  {
+    "id": "11",
+    "title": "Café Marcilla Crème Express Molido Natural",
+    "description": "Crema intensa y sabor equilibrado. Perfecto para cafetera express.",
+    "originalPrice": null,
+    "discountPrice": 3.31,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B082VVLTZV?tag=bigangas-21",
+    "category": "alimentación",
+    "published": false
+  },
+  {
+    "id": "12",
+    "title": "Oral-B iO 2 Cepillo de Dientes Eléctrico",
+    "originalPrice": 84.95,
+    "discountPrice": 53.73,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0DP1MRNXM?tag=bigangas-21",
+    "category": "salud",
+    "published": false
+  },
+  {
+    "id": "13",
+    "title": "Anykuu Comedero Automático para Gatos 4L",
+    "originalPrice": null,
+    "discountPrice": 26.79,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0DJKV88PY?tag=bigangas-21",
+    "category": "mascotas",
+    "published": false
+  },
+  {
+    "id": "14",
+    "title": "Vtopmart Set 8 Recipientes de Cristal Herméticos",
+    "originalPrice": null,
+    "discountPrice": 21.84,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0B9S5HZ26?tag=bigangas-21",
+    "category": "cocina",
+    "published": false
+  },
+  {
+    "id": "15",
+    "title": "Reloj Inteligente 4G Niño con Videollamada y GPS",
+    "originalPrice": 79.99,
+    "discountPrice": 57.75,
+    "platform": "amazon",
+    "affiliateUrl": "https://www.amazon.es/dp/B0H1LQ68XG?tag=bigangas-21",
+    "category": "electrónica",
+    "published": false
+  }
+]
