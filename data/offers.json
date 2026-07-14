@@ -10,7 +10,9 @@
     "category": "bebé",
     "published": true,
     "publishedAt": "2026-07-14T08:12:07.145Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/I/81MoSazbvQL._AC_SL400_.jpg",
+    "expired": true,
+    "expiredAt": "2026-07-14T11:43:36.959Z"
   },
   {
     "id": "2",
