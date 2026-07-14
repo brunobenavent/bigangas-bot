@@ -24,8 +24,7 @@
     "published": true,
     "publishedAt": "2026-07-14T08:18:25.845Z",
     "imageUrl": "https://m.media-amazon.com/images/I/710Lppy-fzL._AC_SL400_.jpg",
-    "expired": true,
-    "expiredAt": "2026-07-14T11:43:31.099Z"
+    "expired": false
   },
   {
     "id": "3",
@@ -53,9 +52,7 @@
     "category": "hogar",
     "published": true,
     "publishedAt": "2026-07-14T08:32:51.556Z",
-    "imageUrl": "https://m.media-amazon.com/images/I/5126jQDuLyL._AC_SL400_.jpg",
-    "expired": true,
-    "expiredAt": "2026-07-14T11:43:42.121Z"
+    "imageUrl": "https://m.media-amazon.com/images/I/5126jQDuLyL._AC_SL400_.jpg"
   },
   {
     "id": "5",
