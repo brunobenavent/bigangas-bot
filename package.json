@@ -7,7 +7,8 @@
     "build": "tsc",
     "start": "node dist/main.js",
     "dev": "tsc && node dist/main.js",
-    "scrape": "tsc && node dist/scraper.js"
+    "scrape": "tsc && node dist/scraper.js",
+    "expire": "tsc && node dist/expire.js"
   },
   "dependencies": {
     "dotenv": "^16.4.7",
