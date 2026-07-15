@@ -213,8 +213,9 @@
     "affiliateUrl": "https://www.amazon.es/Huepar-Autonivelante-Verticales-Horizontal-Conmutables/dp/B082DDJ3SJ?ref=dlx_deals_dg_dcl_B082DDJ3SJ_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/71E8cOKuMBL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false,
-    "expired": false
+    "published": true,
+    "expired": false,
+    "publishedAt": "2026-07-15T15:16:04.291Z"
   },
   {
     "id": "auto-1784020175132-1",
