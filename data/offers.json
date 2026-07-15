@@ -185,9 +185,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0B9S5HZ26?tag=bigangas-21",
     "category": "cocina",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/71yocd0SeaL._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-15T05:11:37.184Z"
   },
   {
     "id": "15",
