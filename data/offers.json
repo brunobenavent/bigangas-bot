@@ -172,9 +172,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0DJKV88PY?tag=bigangas-21",
     "category": "mascotas",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/7158MW8iK1L._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-15T05:11:01.215Z"
   },
   {
     "id": "14",
