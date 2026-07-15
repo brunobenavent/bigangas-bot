@@ -198,9 +198,10 @@
     "platform": "amazon",
     "affiliateUrl": "https://www.amazon.es/dp/B0H1LQ68XG?tag=bigangas-21",
     "category": "electrónica",
-    "published": false,
+    "published": true,
     "imageUrl": "https://m.media-amazon.com/images/I/71lu7A7ScgL._AC_SL400_.jpg",
-    "expired": false
+    "expired": false,
+    "publishedAt": "2026-07-15T09:03:41.922Z"
   },
   {
     "id": "auto-1784020175132-0",
