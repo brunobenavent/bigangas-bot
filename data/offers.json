@@ -227,8 +227,9 @@
     "affiliateUrl": "https://www.amazon.es/Plegable-Inclinaci%C3%B3n-Velocidad-Manillar-Extensible/dp/B0G14B1753?ref=dlx_deals_dg_dcl_B0G14B1753_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/81RxedwLzbL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false,
-    "expired": false
+    "published": true,
+    "expired": false,
+    "publishedAt": "2026-07-15T20:47:34.543Z"
   },
   {
     "id": "auto-1784020175132-2",
