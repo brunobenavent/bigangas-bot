@@ -1,0 +1,39 @@
+name: Scrapear ofertas Amazon
+
+on:
+  schedule:
+    - cron: "0 5 * * 3,6" # Miércoles y sábado a las 5:00 UTC (7:00 España)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - run: npm ci
+
+      # Instalar solo Chromium (no todos los navegadores)
+      - run: npx playwright install chromium --with-deps
+      - run: npx playwright install-deps chromium 2>/dev/null || true
+
+      - run: npm run build
+
+      - name: Scrapear Amazon
+        run: node dist/scraper.js
+        
+      - name: Guardar nuevas ofertas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/offers.json
+          git diff --staged --quiet || git commit -m "chore: nuevas ofertas scrapeadas"
+          git push
