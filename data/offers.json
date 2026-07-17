@@ -311,8 +311,9 @@
     "affiliateUrl": "https://www.amazon.es/Moulinex-cuchillas-capacidad-refrigeraci%C3%B3n-autom%C3%A1tica/dp/B0BFBHRWQM?ref=dlx_deals_dg_dcl_B0BFBHRWQM_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "cocina",
     "imageUrl": "https://m.media-amazon.com/images/I/61ZJm4EN9IL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false,
-    "expired": false
+    "published": true,
+    "expired": false,
+    "publishedAt": "2026-07-17T20:41:04.616Z"
   },
   {
     "id": "auto-1784020175132-8",
