@@ -325,7 +325,8 @@
     "affiliateUrl": "https://www.amazon.es/Calvin-Klein-Monogram-Lv040Em269-Hombre/dp/B0F4NW8T89?ref=dlx_deals_dg_dcl_B0F4NW8T89_dt_sl14_de_pi&pf_rd_r=ENEJ9KWEQX39VQDNKC2W&pf_rd_p=c5bc0231-14eb-46f1-95c5-21a93ad33dde&tag=bigangas-21",
     "category": "moda",
     "imageUrl": "https://m.media-amazon.com/images/I/716AuEroK-L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false,
-    "expired": false
+    "published": true,
+    "expired": false,
+    "publishedAt": "2026-07-18T08:29:42.470Z"
   }
 ]
