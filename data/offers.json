@@ -456,7 +456,8 @@
     "affiliateUrl": "https://www.amazon.es/Baseus-MC1-Pro-Open-impresionante/dp/B0FR7PNYYM?ref=dlx_deals_dg_dcl_B0FR7PNYYM_dt_sl14_62_pi&pf_rd_r=7HPR3Z7JQR05BKT14WTB&pf_rd_p=b3b8871a-8f82-45fb-a896-d53932e7d262&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=bigangas-21",
     "category": "electrónica",
     "imageUrl": "https://m.media-amazon.com/images/I/510lrD3Q-TL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-05T21:45:06.455Z"
   },
   {
     "id": "auto-1788597906015-3",
