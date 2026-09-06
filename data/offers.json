@@ -495,7 +495,8 @@
     "affiliateUrl": "https://www.amazon.es/BaByliss-ST573E-Tecnolog%C3%ADa-encrespamiento-Temperaturas/dp/B0BKL811V7?ref=dlx_deals_dg_dcl_B0BKL811V7_dt_sl14_62_pi&pf_rd_r=7HPR3Z7JQR05BKT14WTB&pf_rd_p=b3b8871a-8f82-45fb-a896-d53932e7d262&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/71TIwhxC8CL._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-06T21:47:51.174Z"
   },
   {
     "id": "auto-1788597906015-6",
