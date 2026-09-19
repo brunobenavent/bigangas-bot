@@ -560,7 +560,8 @@
     "affiliateUrl": "https://www.amazon.es/TP-Link-RE500XD-Repetidor-Rendimiento-Compatibilidad/dp/B0DNJWQ6B3?ref=dlx_deals_dg_dcl_B0DNJWQ6B3_dt_sl14_d6_pi&pf_rd_r=1EG8N7CDW62997YCPPE2&pf_rd_p=83a9521f-f5b4-46d1-8451-3d88ee4026d6&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=bigangas-21",
     "category": "hogar",
     "imageUrl": "https://m.media-amazon.com/images/I/51SOqhp8+5L._AC_SF226,226_QL85_.jpg?aicid=discounts-widgets-horizonte",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-19T21:51:00.287Z"
   },
   {
     "id": "auto-1789808860019-3",
